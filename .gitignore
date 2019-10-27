@@ -1,0 +1,5 @@
+.git
+.idea
+.vagrant
+.DS_Store
+!.gitkeep
